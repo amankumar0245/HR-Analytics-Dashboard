@@ -1,5 +1,7 @@
 # HR-Analytics-Dashboard
 
+### Dashboard Link : https://github.com/amankumar0245/HR-Analytics-Dashboard/blob/4776040299f13a27aa500d1435b2d4093179ecc6/Hr_Analytics_Dashboard.pdf
+
 ## Problem Statement
 
 This dashboard helps the HR department understand employee attrition better. It provides detailed information on various aspects of attrition, including overall attrition rate, attrition by age, education, and job role, as well as customer satisfaction data and distribution of employees by age. Through these insights, HR can identify key factors contributing to employee turnover.
